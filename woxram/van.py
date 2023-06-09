@@ -1,3 +1,3 @@
-import woxram
+from . import woxram
 
 woxram.SampleClass()
