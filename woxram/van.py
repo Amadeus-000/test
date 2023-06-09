@@ -1,0 +1,3 @@
+import woxram
+
+woxram.SampleClass()
