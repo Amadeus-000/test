@@ -1,1 +1,1 @@
-from sample_command import SampleClass
+from .sample_command import SampleClass
